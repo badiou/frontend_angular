@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Sacs",
+      "price": 355,
+      "quantity": 36,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "T-shirt",
+      "price": 44,
+      "quantity": 13,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Printer",
+      "price": 43400,
+      "quantity": 100,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "frfrfrfr",
+      "price": "23",
+      "quantity": "34",
+      "selected": true,
+      "available": false,
+      "id": 6
+    },
+    {
+      "name": "deeded",
+      "price": "2",
+      "quantity": "444",
+      "selected": true,
+      "available": true,
+      "id": 7
+    }
+  ]
+}
